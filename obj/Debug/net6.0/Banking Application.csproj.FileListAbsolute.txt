@@ -1,0 +1,34 @@
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Banking Application.exe
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Banking Application.deps.json
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Banking Application.runtimeconfig.json
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Banking Application.dll
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Banking Application.pdb
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.csproj.AssemblyReference.cache
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.AssemblyInfoInputs.cache
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.AssemblyInfo.cs
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.csproj.CoreCompileInputs.cache
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.csproj.CopyComplete
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.dll
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\refint\Banking Application.dll
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.pdb
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\Banking Application.genruntimeconfig.cache
+C:\Users\circa\Documents\GitHub\COMP123-Programming2\Banking Application\obj\Debug\net6.0\ref\Banking Application.dll
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Banking Application.exe
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Banking Application.deps.json
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Banking Application.runtimeconfig.json
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Banking Application.dll
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Banking Application.pdb
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.csproj.AssemblyReference.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.AssemblyInfoInputs.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.AssemblyInfo.cs
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.csproj.CopyComplete
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.dll
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\refint\Banking Application.dll
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.pdb
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\Banking Application.genruntimeconfig.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\New folder\Banking Console App\Banking Console App\obj\Debug\net6.0\ref\Banking Application.dll

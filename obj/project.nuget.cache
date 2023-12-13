@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zuyPkECEvyB3mH7AOIX5te2lqsEgWM3vocwprHfg5hH8E7e0Tn6EJ8D2lQneY5ShCOfiU0iLgqQO8PJzYHDc4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Dropbox\\PC\\Desktop\\New folder\\Banking Console App\\Banking Console App\\Banking Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
